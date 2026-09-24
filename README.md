@@ -35,3 +35,5 @@ Altere esse valor caso o backend seja executado em outro endereço ou porta.
 | Cadastrar | POST | `/usuarios` |
 | Atualizar | PUT | `/usuarios/:id` |
 | Excluir | DELETE | `/usuarios/:id` |
+
+Link do site no git pages: "https://jvsantino.github.io/frontend_teams/"
