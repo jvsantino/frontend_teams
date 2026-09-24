@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/times";
+const API_URL = "https://backend-teams.onrender.com/times";
 
 const formulario = document.querySelector("#form-time");
 const campoId = document.querySelector("#time-id");
