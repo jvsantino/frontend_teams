@@ -21,7 +21,7 @@ Não abra o arquivo `index.html` diretamente. O servidor HTTP é necessário par
 O endereço está definido no início do arquivo `app.js`:
 
 ```javascript
-const API_URL = "http://localhost:3000/usuarios";
+const API_URL = "http://localhost:3000/times";
 ```
 
 Altere esse valor caso o backend seja executado em outro endereço ou porta.
